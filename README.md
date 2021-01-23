@@ -51,9 +51,9 @@
 
 ### 大数据思维导图篇
 
-1. [大数据开发基础学习路线思维导图](https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-22/1611303630600-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.jpg)
-2. [大数据开发框架完整路线思维导图](https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-22/1611304571199-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6.jpg)
-3. [大数据开发框架各模块源码思维导图](https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-22/1611308678533-%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%BA%90%E7%A0%81.jpg)
+1. [大数据开发基础学习路线思维导图](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/pictures/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.jpg)
+2. [大数据开发框架完整路线思维导图](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/pictures/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6.jpg)
+3. [大数据开发框架各模块源码思维导图](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/pictures/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%BA%90%E7%A0%81.jpg)
 
 ## 大数据开发学习路线​ :+1:
 
