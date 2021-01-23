@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 大数据开发指南
 
 ## 关于我
@@ -485,9 +484,3 @@
 <div align=center><img width="226" height="226" src="https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-23/1611335724536-VX.bmp"/></div>
 
 - 最后的最后，老刘自学遇到过很多困难，一路走来非常不容易，写大数据开发指南目的是让自学的伙伴少走弯路，争取让自学从此不求人！
-
-
-=======
-# BigDataGuide
-详细的大数据开发指南，让你自学从此不求人，禁止白嫖，看了就要有收获，有需要联系公众号：努力的老刘
->>>>>>> e1b6bf69536ca1dd5b917594ab1e49455d8c47eb
