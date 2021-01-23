@@ -328,7 +328,7 @@
 
    Flume实战
 
-2. **同步MySQL增量数据工具Canal**
+2. [**同步MySQL增量数据工具Canal**](https://juejin.cn/post/6920429751186227207)
 
    mysql主备复制实现原理
 
