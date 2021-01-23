@@ -9,7 +9,7 @@
 
 <p align="center">
 <a>
-   <img src="https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-23/1611335724536-VX.bmp">
+   <img src="https://gitee.com/BigDataLiu/big-data-map/raw/master/2021-1-23/1611386558980-VX.bmp">
 </a>
 </p>
 
