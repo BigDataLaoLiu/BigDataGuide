@@ -9,7 +9,7 @@
 
 <p align="center">
 <a>
-   <img src="https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-23/1611335724536-VX.bmp">
+   <img src="https://gitee.com/BigDataLiu/big-data-map/raw/master/2021-1-23/1611386558980-VX.bmp">
 </a>
 </p>
 
@@ -51,9 +51,9 @@
 
 ### 大数据思维导图篇
 
-1. [大数据开发基础学习路线思维导图](https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-22/1611303630600-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.jpg)
-2. [大数据开发框架完整路线思维导图](https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-22/1611304571199-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6.jpg)
-3. [大数据开发框架各模块源码思维导图](https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-22/1611308678533-%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%BA%90%E7%A0%81.jpg)
+1. [大数据开发基础学习路线思维导图](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/pictures/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.jpg)
+2. [大数据开发框架完整路线思维导图](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/pictures/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6.jpg)
+3. [大数据开发框架各模块源码思维导图](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/pictures/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%BA%90%E7%A0%81.jpg)
 
 ## 大数据开发学习路线​ :+1:
 
@@ -150,11 +150,7 @@
 
 在大数据领域分布式无处不在，相当于必须要掌握的东西，大家一定要理顺所有核心知识点！
 
-<<<<<<< HEAD
 - **ZooKeeper核心知识点：（全部都是重点）**
-=======
-- **ZooKeeper核心知识点**：（全部都是重点）
->>>>>>> 731f65b20bd65e294607b07febc97bfcae9a2ad3
 
   为什么要用ZooKeeper
 
@@ -332,7 +328,7 @@
 
    Flume实战
 
-2. **同步MySQL增量数据工具Canal**
+2. [**同步MySQL增量数据工具Canal**](https://juejin.cn/post/6920429751186227207)
 
    mysql主备复制实现原理
 
@@ -485,6 +481,6 @@
 - 文档会引用大量网上的博客内容，一般都会写出处，如果忘了，请您联系我，我会进行更改！
 - 关注公众号：努力的老刘，推送大数据框架核心知识以及源码讲解等干货技术文章，学习资料下载等！
 
-<div align=center><img width="226" height="226" src="https://gitee.com/BigDataLiu/blogimages/raw/master/2021-1-23/1611335724536-VX.bmp"/></div>
+<div align=center><img width="226" height="226" src="https://gitee.com/BigDataLiu/big-data-map/raw/master/2021-1-23/1611386558980-VX.bmp"/></div>
 
 - 最后的最后，老刘自学遇到过很多困难，一路走来非常不容易，写大数据开发指南目的是让自学的伙伴少走弯路，争取让自学从此不求人！
