@@ -63,7 +63,7 @@
 
 ### 二、MySQL进阶知识点
 
-1. mysql架构核心知识点解析（陆续更新中）
+1. [mysql架构核心知识点解析](https://github.com/BigDataLaoLiu/BigDataGuide/blob/main/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E6%9E%B6%E6%9E%84.md)
 2. mysql索引核心知识点解析（陆续更新中）
 3. mysql锁核心知识点解析（陆续更新中）
 4. mysql事务核心知识点解析（陆续更新中）
