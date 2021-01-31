@@ -31,7 +31,7 @@ MySQL架构篇的大纲如下：
 
 <p align="center">
 <a>
-   <img src="https://gitee.com/BigDataLiu/big-data-map/raw/master/2021-1-25/1611568771984-%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84%E5%9B%BE.PNG" style="zoom: 67%;">
+   <img src="https://gitee.com/BigDataLiu/big-data-map/raw/master/2021-1-25/1611568771984-%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84%E5%9B%BE.PNG">
 </a>
 </p>
 
