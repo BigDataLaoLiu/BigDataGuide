@@ -13,7 +13,6 @@
 </a>
 </p>
 
-
 ## 大数据开发指南目录
 
 
@@ -24,6 +23,7 @@
 现在有的内容如下：
 
 - [大数据基础、框架、源码学习思维导图](#大数据思维导图篇)
+- [MySQL进阶知识总结](#二MySQL进阶知识点)
 - [Canal：同步MySQL增量数据工具](#九大数据辅助框架)
 - [分布式理论的原理解析](#四分布式理论原理解析)
 
@@ -63,8 +63,8 @@
 
 ### 二、MySQL进阶知识点
 
-1. mysql架构核心知识点解析（陆续更新中）
-2. mysql索引核心知识点解析（陆续更新中）
+1. [mysql架构核心知识点解析](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E6%9E%B6%E6%9E%84.md)
+2. [mysql索引核心知识点解析](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E7%B4%A2%E5%BC%95%E7%AF%87.md)(一定要跟着老刘练习)
 3. mysql锁核心知识点解析（陆续更新中）
 4. mysql事务核心知识点解析（陆续更新中）
 5. mysql相关的一些性能调优（陆续更新中）
@@ -484,3 +484,5 @@
 <div align=center><img width="226" height="226" src="https://gitee.com/BigDataLiu/big-data-map/raw/master/2021-1-23/1611386558980-VX.bmp"/></div>
 
 - 最后的最后，老刘自学遇到过很多困难，一路走来非常不容易，写大数据开发指南目的是让自学的伙伴少走弯路，争取让自学从此不求人！
+
+
