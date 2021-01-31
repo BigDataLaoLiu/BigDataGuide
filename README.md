@@ -63,8 +63,8 @@
 
 ### 二、MySQL进阶知识点
 
-1. [mysql架构核心知识点解析](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E6%9E%B6%E6%9E%84.md)
-2. [mysql索引核心知识点解析](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E7%B4%A2%E5%BC%95%E7%AF%87.md)(一定要跟着老刘练习)
+1. [mysql架构核心知识点解析](https://github.com/BigDataLaoLiu/BigDataGuide/blob/main/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E6%9E%B6%E6%9E%84.md)
+2. [mysql索引核心知识点解析](https://github.com/BigDataLaoLiu/BigDataGuide/blob/main/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E7%B4%A2%E5%BC%95%E7%AF%87.md)(一定要跟着老刘练习)
 3. mysql锁核心知识点解析（陆续更新中）
 4. mysql事务核心知识点解析（陆续更新中）
 5. mysql相关的一些性能调优（陆续更新中）
