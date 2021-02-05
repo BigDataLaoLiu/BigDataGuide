@@ -2,7 +2,7 @@
 
 ## 通知
 
-👍 2021.02.05更新MySQL事务篇，[精通MySQL事务原理](https://mp.weixin.qq.com/s?__biz=MzU2MDEyMzEyNQ==&mid=2247486762&idx=1&sn=3ad090997ec690fec7e3fd95b34a3040&chksm=fc0d90b0cb7a19a6e39ffc934ecbb66369d3f93815b7ef331b17aa7aaf4ee577fc873a830253&token=1995604441&lang=zh_CN#rd)
+👍 2021.02.05更新MySQL事务篇，[精通MySQL事务原理](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/%E7%B2%BE%E9%80%9AMySQL%E4%B9%8B%E4%BA%8B%E5%8A%A1%E7%AF%87.md)
 
 ## 关于我
 
@@ -70,7 +70,7 @@
 1. [mysql架构核心知识点解析](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E6%9E%B6%E6%9E%84.md)
 2. [mysql索引核心知识点解析](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E7%B4%A2%E5%BC%95%E7%AF%87.md)(一定要跟着老刘练习)
 3. [mysql锁核心知识点解析](https://github.com/BigDataLaoLiu/BigDataGuide/blob/main/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/%E7%B2%BE%E9%80%9AMySQL%E4%B9%8B%E9%94%81%E7%AF%87.md)（2021.02.01更新）
-4. [mysql事务核心知识点解析](https://mp.weixin.qq.com/s?__biz=MzU2MDEyMzEyNQ==&mid=2247486762&idx=1&sn=3ad090997ec690fec7e3fd95b34a3040&chksm=fc0d90b0cb7a19a6e39ffc934ecbb66369d3f93815b7ef331b17aa7aaf4ee577fc873a830253&token=1995604441&lang=zh_CN#rd)（2021.02.05更新）
+4. [mysql事务核心知识点解析](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/%E7%B2%BE%E9%80%9AMySQL%E4%B9%8B%E4%BA%8B%E5%8A%A1%E7%AF%87.md)（2021.02.05更新）
 5. mysql相关的一些性能调优（陆续更新中）
 6. mysql集群相关知识点解析（陆续更新中）
 
