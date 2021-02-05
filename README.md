@@ -2,7 +2,7 @@
 
 ## 通知
 
-👍 2021.02.05更新MySQL事务篇，[精通MySQL事务原理](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/%E7%B2%BE%E9%80%9AMySQL%E4%B9%8B%E4%BA%8B%E5%8A%A1%E7%AF%87.md)
+👍 2021.02.05更新MySQL事务篇，[精通MySQL事务原理](https://gitee.com/BigDataLiu/BigDataGuide/blob/master/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/%E7%B2%BE%E9%80%9AMySQL%E4%B9%8B%E4%BA%8B%E5%8A%A1%E7%AF%87.md)，咱们学东西不能只看表面，更要掌握原理！
 
 ## 关于我
 
