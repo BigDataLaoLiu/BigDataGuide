@@ -4,7 +4,7 @@ Java大数据开发校招面试常见八股文整理，老刘2021年秋招面试
 
 👉本资料是老刘结合秋招经历总结，适合所有应届生阅读，希望对你们有用；
 
-👉老刘的秋招offer：[普通211研究生大数据开发的秋招总结](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NDg0Mg==&mid=2247483677&idx=1&sn=6541b4c4be3f17ee98a8bbe8163dbd0d&chksm=cf3e2248f849ab5e89f08c1f5bab0f572ed3975f1178ebb76763446e760fc6905162abb4440c&token=851190291&lang=zh_CN#rd)
+👉老刘的秋招offer：<a href="https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NDg0Mg==&mid=2247483677&idx=1&sn=6541b4c4be3f17ee98a8bbe8163dbd0d&chksm=cf3e2248f849ab5e89f08c1f5bab0f572ed3975f1178ebb76763446e760fc6905162abb4440c&token=851190291&lang=zh_CN#rd?_blank" target="_blank">普通211研究生大数据开发的秋招总结</a>
 
 
 ### 必看：说给各位伙伴的话​ :fire:
@@ -19,10 +19,10 @@ Java大数据开发校招面试常见八股文整理，老刘2021年秋招面试
 
 ### 二、MySQL进阶知识点
 
-1. [mysql架构： 精通MySQL之架构篇](https://zhuanlan.zhihu.com/p/347082910)
-2. [mysql索引： MySQL索引篇](https://zhuanlan.zhihu.com/p/348301974)
-3. [mysql锁：精通MySQL之锁篇](https://zhuanlan.zhihu.com/p/348487133)
-4. [mysql事务： MySQL事务篇](https://zhuanlan.zhihu.com/p/349418326)
+1. <a href="https://zhuanlan.zhihu.com/p/347082910" target="_blank">精通MySQL之架构篇</a>
+2. <a href="https://zhuanlan.zhihu.com/p/348301974" target="_blank" >精通MySQL之索引篇，这篇注重练习</a>
+3. <a href="https://zhuanlan.zhihu.com/p/348487133" target="_blank">精通MySQL之锁篇</a>
+4. <a href="https://zhuanlan.zhihu.com/p/349418326" target="_blank">详解MySQL事务原理</a>
 5. mysql性能优化： mysql查询太慢，我们如何进行性能优化？
 
 ### 三、分布式文件系统Hadoop
