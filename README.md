@@ -19,11 +19,11 @@ Java大数据开发校招面试常见八股文整理，老刘2021年秋招面试
 
 ### 二、MySQL进阶知识点
 
-1. [mysql架构： 精通MySQL之架构篇](https://github.com/BigDataLaoLiu/BigDataGuide/blob/main/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E6%9E%B6%E6%9E%84.md)
-2. [mysql索引： MySQL索引篇](https://github.com/BigDataLaoLiu/BigDataGuide/blob/main/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E7%B4%A2%E5%BC%95%E7%AF%87.md)(一定要跟着老刘练习)
-3. [mysql锁：精通MySQL之锁篇](https://github.com/BigDataLaoLiu/BigDataGuide/blob/main/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/%E7%B2%BE%E9%80%9AMySQL%E4%B9%8B%E9%94%81%E7%AF%87.md)（2021.02.01更新）
-4. [mysql事务： MySQL事务篇](https://github.com/BigDataLaoLiu/BigDataGuide/blob/main/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/%E7%B2%BE%E9%80%9AMySQL%E4%B9%8B%E4%BA%8B%E5%8A%A1%E7%AF%87.md)（2021.02.05更新）
-5. [mysql性能优化： mysql查询太慢，我们如何进行性能优化？](https://github.com/BigDataLaoLiu/BigDataGuide/blob/main/docs/MySQL%E6%9E%B6%E6%9E%84%E7%AF%87/MySQL%E4%BC%98%E5%8C%96.md)（2021.02.07更新）
+1. [mysql架构： 精通MySQL之架构篇](https://zhuanlan.zhihu.com/p/347082910)
+2. [mysql索引： MySQL索引篇](https://zhuanlan.zhihu.com/p/348301974)
+3. [mysql锁：精通MySQL之锁篇](https://zhuanlan.zhihu.com/p/348487133)
+4. [mysql事务： MySQL事务篇](https://zhuanlan.zhihu.com/p/349418326)
+5. mysql性能优化： mysql查询太慢，我们如何进行性能优化？
 
 ### 三、分布式文件系统Hadoop
 
