@@ -6,6 +6,8 @@ Java大数据开发校招面试常见八股文整理，老刘2021年秋招面试
 
 👉老刘的秋招offer：<a href="https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NDg0Mg==&mid=2247483677&idx=1&sn=6541b4c4be3f17ee98a8bbe8163dbd0d&chksm=cf3e2248f849ab5e89f08c1f5bab0f572ed3975f1178ebb76763446e760fc6905162abb4440c&token=851190291&lang=zh_CN#rd?_blank" target="_blank">普通211研究生大数据开发的秋招总结</a>
 
+👉老刘的大数据知识点学习路线汇总：<a href="https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NDg0Mg==&mid=2247483749&idx=1&sn=4a3e74a5d5dbc7795277a3c89c83fd6a&chksm=cf3e2230f849ab26eb13b00fa764bd2167911c95636bfd33ef22c2b680223f6e27965aa14ef8&token=937331229&lang=zh_CN#rd" target="_blank">为自学的伙伴打造，大数据开发上岸最详细知识点汇总</a>
+
 
 ### 必看：说给各位伙伴的话​ :fire:
 
